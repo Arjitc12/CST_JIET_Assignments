@@ -9,4 +9,4 @@
 - Solutions will be provided after completion of deadline
 
 
-This is repository is made for submitting all the assignments of Competitve Programming. 
+This repository is made for submitting all the assignments of Competitve Programming. 
